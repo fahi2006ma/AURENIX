@@ -93,4 +93,4 @@ All assets provided by the user have been processed and integrated:
 - `public/assets/graduation_books_banner.png`: Dashboard motivation banner.
 
 ---
-*Created for Sri Krishna Arts and Science College (SKASC) • Aurenix University Portal v1.0*
+• Aurenix University Portal v1.0*
